@@ -1,4 +1,4 @@
-import dbConn from "@/utils/dbConn";
+import dbConn from "@/utils/DbConnect";
 import Contact from "@/models/contact";
 import { NextResponse } from "next/server";
 
