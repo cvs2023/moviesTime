@@ -11,8 +11,8 @@ const Header = () => {
           <Image
             src="/MovieTimeLogo.jpg"
             alt="my logo image"
-            width={225}
-            height={90}
+            width={165}
+            height={60}
           />
         </Link>
       </div>
